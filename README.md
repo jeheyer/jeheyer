@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning advanced Python, SQL Alchemy, and FastAPI
 - 💞️ I’m looking to collaborate on Python and Terraform related projects
 - :man_teacher: I'm an AWS Certified Advanced Networking Specialist and Google Cloud Professional Cloud Network Engineer
-- :metal: I'm enjoy listening to Pantera
+- :metal: Pantera rulez!
 - 📫 How to reach me: https://layer77.net
 
 <!---
